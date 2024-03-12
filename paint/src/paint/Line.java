@@ -15,3 +15,5 @@ public class Line extends Figure {
         g.drawLine(getx1(), gety1(), getx2(), gety2());
     }
 }
+
+// este comentario está hecho en git
